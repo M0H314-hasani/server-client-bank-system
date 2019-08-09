@@ -1,0 +1,51 @@
+C:\Users\rayan negin\Desktop\class15\Client\bin\Debug\Client.exe
+C:\Users\rayan negin\Desktop\class15\Client\bin\Debug\Client.pdb
+C:\Users\rayan negin\Desktop\class15\Client\obj\x86\Debug\Client.Client.resources
+C:\Users\rayan negin\Desktop\class15\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\rayan negin\Desktop\class15\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\rayan negin\Desktop\class15\Client\obj\x86\Debug\Client.exe
+C:\Users\rayan negin\Desktop\class15\Client\obj\x86\Debug\Client.pdb
+D:\مباحث ویژه 2\class15\Client\bin\Debug\Client.exe
+D:\مباحث ویژه 2\class15\Client\bin\Debug\Client.pdb
+D:\مباحث ویژه 2\class15\Client\obj\x86\Debug\Client.Client.resources
+D:\مباحث ویژه 2\class15\Client\obj\x86\Debug\Client.Option.resources
+D:\مباحث ویژه 2\class15\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\مباحث ویژه 2\class15\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+D:\مباحث ویژه 2\class15\Client\obj\x86\Debug\Client.exe
+D:\مباحث ویژه 2\class15\Client\obj\x86\Debug\Client.pdb
+D:\teaching\مودی\مباحث ویژه 2\class15\Client\obj\x86\Debug\Client.exe
+D:\teaching\مودی\مباحث ویژه 2\class15\Client\obj\x86\Debug\Client.pdb
+D:\teaching\مودی\مباحث ویژه 2\class15\Client\bin\Debug\Client.exe
+D:\teaching\مودی\مباحث ویژه 2\class15\Client\bin\Debug\Client.pdb
+D:\teaching\مودی\مباحث ویژه 2\class15\Client\obj\x86\Debug\Client.Client.resources
+D:\teaching\مودی\مباحث ویژه 2\class15\Client\obj\x86\Debug\Client.Option.resources
+D:\teaching\مودی\مباحث ویژه 2\class15\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\teaching\مودی\مباحث ویژه 2\class15\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Mohsen\Desktop\C#\class15\Client\obj\x86\Debug\Client.exe
+C:\Users\Mohsen\Desktop\C#\class15\Client\obj\x86\Debug\Client.pdb
+C:\Users\Mohsen\Desktop\C#\class15\Client\bin\Debug\Client.exe
+C:\Users\Mohsen\Desktop\C#\class15\Client\bin\Debug\Client.pdb
+C:\Users\Mohsen\Desktop\C#\class15\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Mohsen\Desktop\C#\class15\Client\obj\x86\Debug\Client.Client.resources
+C:\Users\Mohsen\Desktop\C#\class15\Client\obj\x86\Debug\Client.Option.resources
+C:\Users\Mohsen\Desktop\C#\class15\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Mohsen\Desktop\C#\class15\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Mohsen\Desktop\C#\class15\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mohsen\Desktop\C#\class15\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mohsen\Desktop\C#\class15\Client\obj\x86\Debug\Client.RegisterForm.resources
+C:\Users\Mohsen\Desktop\C#\class15\Client\obj\x86\Debug\Client.UserProfileForm.resources
+C:\Users\Mohsen\Desktop\C#\class15\Client\obj\x86\Debug\Client.TransactionsForm.resources
+C:\Users\Mohsen\Desktop\C#\project\Client\obj\x86\Debug\Client.exe
+C:\Users\Mohsen\Desktop\C#\project\Client\obj\x86\Debug\Client.pdb
+C:\Users\Mohsen\Desktop\C#\project\Client\bin\Debug\Client.exe
+C:\Users\Mohsen\Desktop\C#\project\Client\bin\Debug\Client.pdb
+C:\Users\Mohsen\Desktop\C#\project\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mohsen\Desktop\C#\project\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mohsen\Desktop\C#\project\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Mohsen\Desktop\C#\project\Client\obj\x86\Debug\Client.TransactionsForm.resources
+C:\Users\Mohsen\Desktop\C#\project\Client\obj\x86\Debug\Client.Client.resources
+C:\Users\Mohsen\Desktop\C#\project\Client\obj\x86\Debug\Client.Option.resources
+C:\Users\Mohsen\Desktop\C#\project\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Mohsen\Desktop\C#\project\Client\obj\x86\Debug\Client.RegisterForm.resources
+C:\Users\Mohsen\Desktop\C#\project\Client\obj\x86\Debug\Client.UserProfileForm.resources
+C:\Users\Mohsen\Desktop\C#\project\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache

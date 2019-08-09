@@ -1,0 +1,43 @@
+C:\Users\rayan negin\Desktop\class15\class15\bin\Debug\class15.exe
+C:\Users\rayan negin\Desktop\class15\class15\bin\Debug\class15.pdb
+C:\Users\rayan negin\Desktop\class15\class15\obj\x86\Debug\class15.Properties.Resources.resources
+C:\Users\rayan negin\Desktop\class15\class15\obj\x86\Debug\class15.Server.resources
+C:\Users\rayan negin\Desktop\class15\class15\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\rayan negin\Desktop\class15\class15\obj\x86\Debug\class15.exe
+C:\Users\rayan negin\Desktop\class15\class15\obj\x86\Debug\class15.pdb
+D:\مباحث ویژه 2\class15\class15\bin\Debug\class15.exe
+D:\مباحث ویژه 2\class15\class15\bin\Debug\class15.pdb
+D:\مباحث ویژه 2\class15\class15\obj\x86\Debug\class15.Properties.Resources.resources
+D:\مباحث ویژه 2\class15\class15\obj\x86\Debug\class15.Server.resources
+D:\مباحث ویژه 2\class15\class15\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+D:\مباحث ویژه 2\class15\class15\obj\x86\Debug\class15.exe
+D:\مباحث ویژه 2\class15\class15\obj\x86\Debug\class15.pdb
+D:\مباحث ویژه 2\class15\class15\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+D:\teaching\مودی\مباحث ویژه 2\class15\class15\obj\x86\Debug\class15.exe
+D:\teaching\مودی\مباحث ویژه 2\class15\class15\obj\x86\Debug\class15.pdb
+D:\teaching\مودی\مباحث ویژه 2\class15\class15\bin\Debug\class15.exe
+D:\teaching\مودی\مباحث ویژه 2\class15\class15\bin\Debug\class15.pdb
+D:\teaching\مودی\مباحث ویژه 2\class15\class15\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+D:\teaching\مودی\مباحث ویژه 2\class15\class15\obj\x86\Debug\class15.Properties.Resources.resources
+D:\teaching\مودی\مباحث ویژه 2\class15\class15\obj\x86\Debug\class15.Server.resources
+D:\teaching\مودی\مباحث ویژه 2\class15\class15\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Mohsen\Desktop\C#\class15\class15\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Mohsen\Desktop\C#\class15\class15\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Mohsen\Desktop\C#\class15\class15\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mohsen\Desktop\C#\class15\class15\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mohsen\Desktop\C#\class15\class15\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Mohsen\Desktop\C#\class15\class15\obj\x86\Debug\Server.ServerForm.resources
+C:\Users\Mohsen\Desktop\C#\class15\class15\bin\Debug\Server.exe
+C:\Users\Mohsen\Desktop\C#\class15\class15\bin\Debug\Server.pdb
+C:\Users\Mohsen\Desktop\C#\class15\class15\obj\x86\Debug\Server.exe
+C:\Users\Mohsen\Desktop\C#\class15\class15\obj\x86\Debug\Server.pdb
+C:\Users\Mohsen\Desktop\C#\project\Server\obj\x86\Debug\Server.exe
+C:\Users\Mohsen\Desktop\C#\project\Server\obj\x86\Debug\Server.pdb
+C:\Users\Mohsen\Desktop\C#\project\Server\bin\Debug\Server.exe
+C:\Users\Mohsen\Desktop\C#\project\Server\bin\Debug\Server.pdb
+C:\Users\Mohsen\Desktop\C#\project\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mohsen\Desktop\C#\project\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mohsen\Desktop\C#\project\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Mohsen\Desktop\C#\project\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Mohsen\Desktop\C#\project\Server\obj\x86\Debug\Server.ServerForm.resources
+C:\Users\Mohsen\Desktop\C#\project\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
